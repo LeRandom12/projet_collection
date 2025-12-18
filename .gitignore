@@ -1,0 +1,11 @@
+# Données ingérées
+data/raw/*
+!data/raw/.gitkeep
+
+# Fichiers Python temporaires
+__pycache__/
+*.pyc
+
+# Environnements virtuels
+venv/
+.env
